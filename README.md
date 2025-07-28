@@ -16,7 +16,7 @@
 
 ## Tecnologias usadas 💻
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,java,python,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,java,python,tailwind,git)](https://skillicons.dev)
 
 ## Contatos 🌍
 
