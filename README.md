@@ -9,7 +9,6 @@
 * 💡 Foco em aplicar **Machine Learning, IA e Ciência de Dados** para resolver problemas reais e otimizar processos.
 * 💻 Proficiência em Python (Pandas, Scikit-learn, TensorFlow) e Java.
 * 🎓 Graduando em Ciência da Computação na UEPB Câmpus VII (Patos).
-* 🌱 Buscando ativamente uma vaga de **Estágio** em Engenharia de Machine Learning ou Data Science.
 
 ---
 
