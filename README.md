@@ -7,7 +7,7 @@
 ### 🚀 Sobre Mim
 
 * 💡 Foco em aplicar **Machine Learning, IA e Ciência de Dados** para resolver problemas reais e otimizar processos.
-* 💻 Proficiência em Python (Pandas, Scikit-learn, TensorFlow) e Java.
+* 💻 Proficiência em Python, Java, SQL.
 * 🎓 Graduando em Ciência da Computação na UEPB Câmpus VII (Patos).
 
 ---
