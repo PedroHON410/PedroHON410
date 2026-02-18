@@ -16,7 +16,7 @@
 
 Abaixo estão as ferramentas e linguagens com as quais eu trabalho:
 
-[![My Skills](https://skillicons.dev/icons?i=python,jupyter,tensorflow,scikitlearn,java,sql,html,css,js,react,nodejs,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,tensorflow,scikitlearn,java,postgres,sqlite,html,css,js,react,tailwind,git)](https://skillicons.dev)
 
 ---
 
@@ -24,8 +24,8 @@ Abaixo estão as ferramentas e linguagens com as quais eu trabalho:
 
 Você pode conferir todos os meus projetos de Data Science e Web aqui:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHON410&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHON410&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroHON410&show)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHON410&layout=compact)
 
 ---
 
